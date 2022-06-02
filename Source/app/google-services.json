@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532692512555",
+    "firebase_url": "https://todoapp-48455-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "todoapp-48455",
+    "storage_bucket": "todoapp-48455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532692512555:android:7fa4060bf7835af774df6e",
+        "android_client_info": {
+          "package_name": "vn.tdtu.student.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532692512555-1nueeoa11nnp2dk13b10mhaam65lohlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJzPTPgzIe7dxUQ0RksZDK1a12GkauQj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532692512555-1nueeoa11nnp2dk13b10mhaam65lohlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
